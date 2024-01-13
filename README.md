@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **sharpen Frontend skills, angular, react**
+- 🌱 I’m currently learning **sharpen Frontend skills, UX/UI, Angular, Responsive Webpages**
 
 - 🤝 I’m looking for **a job at Front-End-Development**
 
