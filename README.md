@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Javascript, Angular**
 
-- 📫 How to reach me **yehaung.nov@gmail.com**
+- 📫 How to reach me **email@ye-htut-aung.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
