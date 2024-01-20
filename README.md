@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for **a job at Front-End-Development**
 
-- 👨‍💻 some of my projects are available at [https://ye-htut-aung.de/Portfolio/](https://ye-htut-aung.de/Portfolio/)
+- 👨‍💻 some of my projects are available at [https://ye-htut-aung.de](https://ye-htut-aung.de)
 
 - 💬 Ask me about **Javascript, Angular**
 
